@@ -25,7 +25,7 @@ In the aliases file, the keys represent canonical topics.
 
 ## Historical Notes
 
-❗ At commit [`43add83`](https://github.com/castorini/eval/commit/43add835e20bd66b48f9a640be9bad95a4762d82) (2026/08/09), `topics-and-qrels/` was refactored into separate `topic/` and `qrels/` directories.
+❗ At commit [`43add83`](https://github.com/castorini/eval/commit/43add835e20bd66b48f9a640be9bad95a4762d82) (2026/08/09), `topics-and-qrels/` was refactored into separate `topics/` and `qrels/` directories.
 At the same time, this repo was renamed from `anserini-tools` to `eval`.
 The associated PR is [`eval#118`](https://github.com/castorini/eval/pull/118).
 This breaks consumers that depend on fetching a stable `topics-and-qrels/` path (on `master`).
