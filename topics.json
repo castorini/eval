@@ -1839,6 +1839,214 @@
     "path": "topics.rag25.test.jsonl",
     "reader_class": "io.anserini.search.topicreader.JsonStringTopicReader"
   },
+  "reteco-v1.1-track1a-bitcoin.dev": {
+    "path": "topics.reteco-v1.1-track1a-bitcoin.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-bitcoin.train": {
+    "path": "topics.reteco-v1.1-track1a-bitcoin.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-cardano.dev": {
+    "path": "topics.reteco-v1.1-track1a-cardano.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-cardano.train": {
+    "path": "topics.reteco-v1.1-track1a-cardano.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-economics.dev": {
+    "path": "topics.reteco-v1.1-track1a-economics.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-economics.train": {
+    "path": "topics.reteco-v1.1-track1a-economics.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-genealogy.dev": {
+    "path": "topics.reteco-v1.1-track1a-genealogy.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-genealogy.train": {
+    "path": "topics.reteco-v1.1-track1a-genealogy.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-history.dev": {
+    "path": "topics.reteco-v1.1-track1a-history.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-history.train": {
+    "path": "topics.reteco-v1.1-track1a-history.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-hsm.dev": {
+    "path": "topics.reteco-v1.1-track1a-hsm.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-hsm.train": {
+    "path": "topics.reteco-v1.1-track1a-hsm.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-iota.dev": {
+    "path": "topics.reteco-v1.1-track1a-iota.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-iota.train": {
+    "path": "topics.reteco-v1.1-track1a-iota.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-law.dev": {
+    "path": "topics.reteco-v1.1-track1a-law.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-law.train": {
+    "path": "topics.reteco-v1.1-track1a-law.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-monero.dev": {
+    "path": "topics.reteco-v1.1-track1a-monero.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-monero.train": {
+    "path": "topics.reteco-v1.1-track1a-monero.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-politics.dev": {
+    "path": "topics.reteco-v1.1-track1a-politics.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-politics.train": {
+    "path": "topics.reteco-v1.1-track1a-politics.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-quant.dev": {
+    "path": "topics.reteco-v1.1-track1a-quant.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-quant.train": {
+    "path": "topics.reteco-v1.1-track1a-quant.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-travel.dev": {
+    "path": "topics.reteco-v1.1-track1a-travel.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-travel.train": {
+    "path": "topics.reteco-v1.1-track1a-travel.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-workplace.dev": {
+    "path": "topics.reteco-v1.1-track1a-workplace.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1a-workplace.train": {
+    "path": "topics.reteco-v1.1-track1a-workplace.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-bitcoin.dev": {
+    "path": "topics.reteco-v1.1-track1b-bitcoin.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-bitcoin.train": {
+    "path": "topics.reteco-v1.1-track1b-bitcoin.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-cardano.dev": {
+    "path": "topics.reteco-v1.1-track1b-cardano.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-cardano.train": {
+    "path": "topics.reteco-v1.1-track1b-cardano.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-economics.dev": {
+    "path": "topics.reteco-v1.1-track1b-economics.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-economics.train": {
+    "path": "topics.reteco-v1.1-track1b-economics.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-genealogy.dev": {
+    "path": "topics.reteco-v1.1-track1b-genealogy.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-genealogy.train": {
+    "path": "topics.reteco-v1.1-track1b-genealogy.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-history.dev": {
+    "path": "topics.reteco-v1.1-track1b-history.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-history.train": {
+    "path": "topics.reteco-v1.1-track1b-history.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-hsm.dev": {
+    "path": "topics.reteco-v1.1-track1b-hsm.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-hsm.train": {
+    "path": "topics.reteco-v1.1-track1b-hsm.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-iota.dev": {
+    "path": "topics.reteco-v1.1-track1b-iota.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-iota.train": {
+    "path": "topics.reteco-v1.1-track1b-iota.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-law.dev": {
+    "path": "topics.reteco-v1.1-track1b-law.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-law.train": {
+    "path": "topics.reteco-v1.1-track1b-law.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-monero.dev": {
+    "path": "topics.reteco-v1.1-track1b-monero.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-monero.train": {
+    "path": "topics.reteco-v1.1-track1b-monero.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-politics.dev": {
+    "path": "topics.reteco-v1.1-track1b-politics.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-politics.train": {
+    "path": "topics.reteco-v1.1-track1b-politics.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-quant.dev": {
+    "path": "topics.reteco-v1.1-track1b-quant.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-quant.train": {
+    "path": "topics.reteco-v1.1-track1b-quant.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-travel.dev": {
+    "path": "topics.reteco-v1.1-track1b-travel.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-travel.train": {
+    "path": "topics.reteco-v1.1-track1b-travel.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-workplace.dev": {
+    "path": "topics.reteco-v1.1-track1b-workplace.dev.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "reteco-v1.1-track1b-workplace.train": {
+    "path": "topics.reteco-v1.1-track1b-workplace.train.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "robust04": {
     "path": "topics.robust04.txt",
     "reader_class": "io.anserini.search.topicreader.TrecTopicReader"
